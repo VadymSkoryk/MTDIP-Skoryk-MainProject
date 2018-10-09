@@ -8,5 +8,7 @@ public class TestRepo {
         System.out.println("Hello from IDE");
         int a=0;
         int b = a;
+
+        System.out.println("Result = "+(a+b));
     }
 }
