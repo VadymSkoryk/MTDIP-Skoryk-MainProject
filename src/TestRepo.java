@@ -5,5 +5,6 @@ public class TestRepo {
     public static void main(String[] args) {
         System.out.println("Hello");
         System.out.println("Hello from Git");
+        System.out.println("Hello from IDE");
     }
 }
