@@ -6,6 +6,7 @@ public class TestRepo {
         System.out.println("Hello");
         System.out.println("Hello from Git");
         System.out.println("Hello from IDE");
-        int a;
+        int a=0;
+        int b = a;
     }
 }
