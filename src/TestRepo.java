@@ -10,5 +10,6 @@ public class TestRepo {
         int b = a;
 
         System.out.println("Result ="+(a+b));
+        System.out.println(++b);
     }
 }
