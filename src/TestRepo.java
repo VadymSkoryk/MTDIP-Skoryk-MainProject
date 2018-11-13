@@ -13,5 +13,6 @@ public class TestRepo {
         System.out.println(a++);
         System.out.println(++b);
         //hello
+        System.out.println("Test conflict");
     }
 }
