@@ -12,7 +12,7 @@ public class TestRepo {
         System.out.println("Result ="+(a+b));
         System.out.println(a++);
         System.out.println(++b);
-        Sysstem.out.println("Hello from Browser");
+        System.out.println("Hello from Browser");
      
         //hello
         System.out.println("Test conflict");
